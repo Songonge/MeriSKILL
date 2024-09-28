@@ -89,4 +89,12 @@ By implementing these recommendations, the organization can optimize its sales s
 <br/><br/> -->
 
 <br/><br/>
+
 **Thank you for taking the time to read this report!** 
+
+**Please reach out for any updates.**
+
+### Author
+[Edwige Songong](https://github.com/Songonge) Powered by [MeriSKILL](https://meriskill.in/)
+
+
